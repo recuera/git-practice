@@ -1,0 +1,3 @@
+Name: Ana
+Age: 28
+Favourite colour: teal
